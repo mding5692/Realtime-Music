@@ -1,0 +1,14 @@
+{
+  "name": "web-audio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mding5692/Web-Audio.git",
+  "author": "mding5692 <m.ding5692@gmail.com>",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "audiokeys": "^0.1.1"
+  }
+}
